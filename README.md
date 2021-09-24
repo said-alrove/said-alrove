@@ -80,6 +80,7 @@ I've spent several hours studying and putting into practice a few basic technolo
                     padding: 10px;">
         </a>
     </td>
+    <td>
         <a href="https://github.com/said-alrove?tab=repositories&q=sass&type=&language=&sort=">
             <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" 
