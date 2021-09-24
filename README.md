@@ -94,8 +94,8 @@ I've spent several hours studying and putting into practice a few basic technolo
 </table>
 
 ## **More information** 💁‍♂️
-📭 **How to reach me?** My most important social network right now is **Twitter**, you can send me a DM at [**@said_alrove**](https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png).
+📭 **How to reach me?** My most important social network right now is **Twitter**, you can send me a DM at [**@said_alrove**](https://twitter.com/said_alrove).
 
-🔮 **What are my plans for the future?** I'm interested in becoming a **Frontend Engineer** specialized in [**React**](https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png), *the path is still long, but I'm trying to making it shorter every day*
+🔮 **What are my plans for the future?** I'm interested in becoming a **Frontend Engineer** specialized in [**React**](https://reactjs.org/), *the path is still long, but I'm trying to making it shorter every day*
 
 
