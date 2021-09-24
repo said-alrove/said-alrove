@@ -70,7 +70,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         </a>
     </td>
     <td>
-        <a href="https://github.com/said-alrove?tab=repositories&q=sass&type=&language=&sort=">
+        <a href="https://github.com/said-alrove?tab=repositories&q=gulp&type=&language=&sort=">
             <img 
                 src="https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png" 
                 width="50px" 
@@ -81,7 +81,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         </a>
     </td>
     <td>
-        <a href="https://github.com/said-alrove?tab=repositories&q=sass&type=&language=&sort=">
+        <a href="https://github.com/said-alrove?tab=repositories&q=git&type=&language=&sort=">
             <img 
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" 
                 width="50px" 
