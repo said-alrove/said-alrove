@@ -1,5 +1,5 @@
 # **Hi there** 👋
-I'm an apassionate full-time student advocate of learning new technologies in my free times (I'm in High School). I'm from *Veracruz, México* and currently 17 years old 🧑.
+I'm a passionate full-time student advocate of learning new technologies in my free time (I'm in High School). I'm from Veracruz, México, and currently 17 years old 🧑.
 
 ##  **What I am currently learning?** 📚
 Right now I'm in the process of learning a few technologies before getting started to learn Javascript such as [**NPM**](https://www.npmjs.com/) 📦, [**TailwindCSS**](https://tailwindcss.com/) 🎨 and [**Pug**](https://pugjs.org/api/getting-started.html) 🐶
@@ -33,7 +33,7 @@ Right now I'm in the process of learning a few technologies before getting start
 </a>
 
 ## **Technologies** 👩‍💻
-I've spent several hours studying and putting in practice a few basic technologies that have helped me to build very interesting projects which you can see in my repositories.
+I've spent several hours studying and putting into practice a few basic technologies that have helped me to build very interesting projects which you can see in my repositories.
 
 <table>
     <td>
@@ -86,6 +86,6 @@ I've spent several hours studying and putting in practice a few basic technologi
 ## **More information** 💁‍♂️
 📭 **How to reach me?** My most important social network right now is **Twitter**, you can send me a DM at [**@said_alrove**](https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png).
 
-🔮 **What are my plannes to future?** I'm interested in becoming a **Frontend Engineer** specialized in [**React**](https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png), *the path is still long, but I'm trying to making it shorter every day*
+🔮 **What are my plans for the future?** I'm interested in becoming a **Frontend Engineer** specialized in [**React**](https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png), *the path is still long, but I'm trying to making it shorter every day*
 
 
