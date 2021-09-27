@@ -39,7 +39,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style="
-            border: 1px solid gray; 
+            border: 2px solid gray; 
             padding: 10px;
             margin-inline: 5px;">
 </a>
@@ -50,7 +50,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style="
-            border: 1px solid gray; 
+            border: 2px solid gray; 
             padding: 10px;
             margin-inline: 5px;">
 </a>
@@ -61,7 +61,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style="
-            border: 1px solid gray; 
+            border: 2px solid gray; 
             padding: 10px;
             margin-inline: 5px;">
 </a>
@@ -72,7 +72,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style="
-            border: 1px solid gray; 
+            border: 2px solid gray; 
             padding: 10px;
             margin-inline: 5px;">
 </a>
@@ -83,7 +83,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style="
-            border: 1px solid gray; 
+            border: 2px solid gray; 
             padding: 10px;
             margin-inline: 5px;">
 </a>
@@ -94,7 +94,7 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style="
-            border: 1px solid gray; 
+            border: 2px solid gray; 
             padding: 10px;
             margin-inline: 5px;">
 </a>
