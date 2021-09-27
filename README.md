@@ -41,9 +41,8 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style=" 
-            margin-inline: 7.5px;
-            border-radius: 10px;
-            border: 2px solid gray;">
+            padding: 50px;
+            margin-inline: 7.5px;">
 </a>
 
 <a href="https://github.com/said-alrove?tab=repositories&q=css&type=&language=&sort=">
