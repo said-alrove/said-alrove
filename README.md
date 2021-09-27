@@ -9,7 +9,7 @@ Right now I'm in the process of learning a few technologies before getting start
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png"
         width="100px"
         style="
-            margin-right: 15px; 
+            margin-inline: 7.5px; 
             margin-top: 7.5px;">
 </a> 
 
@@ -20,14 +20,16 @@ Right now I'm in the process of learning a few technologies before getting start
     height="50px" 
     style="
         border-radius: 50%; 
-        margin-right: 15px;">
+        margin-inline: 7.5px;">
 </a>
 
 <a href="https://pugjs.org/api/getting-started.html">
     <img
         src="https://cdn.worldvectorlogo.com/logos/pug.svg"
         width="50px"
-        height="50px">
+        height="50px"
+        style="
+            margin-inline: 7.5px;">
 </a>
 
 ## **Technologies** 👩‍💻
@@ -38,10 +40,10 @@ I've spent several hours studying and putting into practice a few basic technolo
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" 
         width="50px" 
         height="50px"
-        style="
-            border: 2px solid gray; 
-            padding: 10px;
-            margin-inline: 5px;">
+        style=" 
+            margin-inline: 7.5px;
+            border-radius: 10px;
+            border: 2px solid gray;">
 </a>
 
 <a href="https://github.com/said-alrove?tab=repositories&q=css&type=&language=&sort=">
@@ -49,10 +51,8 @@ I've spent several hours studying and putting into practice a few basic technolo
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" 
         width="50px" 
         height="50px"
-        style="
-            border: 2px solid gray; 
-            padding: 10px;
-            margin-inline: 5px;">
+        style=" 
+            margin-inline: 7.5px;">
 </a>
 
 <a href="https://github.com/said-alrove?tab=repositories&q=sass&type=&language=&sort=">
@@ -60,10 +60,8 @@ I've spent several hours studying and putting into practice a few basic technolo
         src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" 
         width="50px" 
         height="50px"
-        style="
-            border: 2px solid gray; 
-            padding: 10px;
-            margin-inline: 5px;">
+        style=" 
+            margin-inline: 7.5px;">
 </a>
 
 <a href="https://github.com/said-alrove?tab=repositories&q=gulp&type=&language=&sort=">
@@ -71,10 +69,8 @@ I've spent several hours studying and putting into practice a few basic technolo
         src="https://cdn2.hubspot.net/hubfs/4008838/gulp-red-text.png" 
         width="50px" 
         height="50px"
-        style="
-            border: 2px solid gray; 
-            padding: 10px;
-            margin-inline: 5px;">
+        style=" 
+            margin-inline: 7.5px;">
 </a>
 
 <a href="https://github.com/said-alrove?tab=repositories&q=git&type=&language=&sort=">
@@ -82,10 +78,8 @@ I've spent several hours studying and putting into practice a few basic technolo
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" 
         width="50px" 
         height="50px"
-        style="
-            border: 2px solid gray; 
-            padding: 10px;
-            margin-inline: 5px;">
+        style=" 
+            margin-inline: 7.5px;">
 </a>
 
 <a href="https://github.com/said-alrove?tab=repositories&q=postcss&type=&language=&sort=">
@@ -93,10 +87,8 @@ I've spent several hours studying and putting into practice a few basic technolo
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png" 
         width="50px" 
         height="50px"
-        style="
-            border: 2px solid gray; 
-            padding: 10px;
-            margin-inline: 5px;">
+        style=" 
+            margin-inline: 7.5px;">
 </a>
 
 ## **More information** 💁‍♂️
