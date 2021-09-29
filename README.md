@@ -41,7 +41,6 @@ I've spent several hours studying and putting into practice a few basic technolo
         width="50px" 
         height="50px"
         style=" 
-            padding: 50px;
             margin-inline: 7.5px;">
 </a>
 
@@ -92,6 +91,8 @@ I've spent several hours studying and putting into practice a few basic technolo
 
 ## **More information** 💁‍♂️
 📭 **How to reach me?** My most important social network right now is **Twitter**, you can send me a DM at [**@said_alrove**](https://twitter.com/said_alrove).
+
+![Twitter Follow](https://img.shields.io/twitter/follow/said_alrove?style=social)
 
 🔮 **What are my plans for the future?** I'm interested in becoming a **Frontend Engineer** specialized in [**React**](https://reactjs.org/), *the path is still long, but I'm trying to making it shorter every day*.
 
